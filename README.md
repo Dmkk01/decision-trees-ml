@@ -157,4 +157,4 @@ Variance refers to the changes in a model when using different portions of the t
 Error due to variance: the variability of a model prediction for a given data point 
 between different realizations of a model.
 ## Assignment 7
-<img src="/Lab 1/trees/task_7.png"/>
+<img src="/trees/task_7.png"/>
